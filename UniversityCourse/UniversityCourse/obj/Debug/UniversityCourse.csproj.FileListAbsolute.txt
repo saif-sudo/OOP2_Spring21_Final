@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\bin\Debug\UniversityCourse.exe.config
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\bin\Debug\UniversityCourse.exe
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\bin\Debug\UniversityCourse.pdb
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\obj\Debug\UniversityCourse.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\obj\Debug\UniversityCourse.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\obj\Debug\UniversityCourse.exe
+C:\Users\HP\source\repos\UniversityCourse\UniversityCourse\obj\Debug\UniversityCourse.pdb
